@@ -22,7 +22,7 @@ Features
 Python Keywords Used
 This program implements the following Python keywords:
 
-1. import - Used to import the OS module, JSON, and arguments.w
+1. import - Used to import the OS module, and JSON.
 2. class - Defines the BankAccount class.
 3. def - Defines functions such as deposit, withdraw, check_balance, apply_loan, and main.
 4. global - Used to declare bank_reserve as a global variable.
